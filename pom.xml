@@ -12,6 +12,7 @@
     <module>StreamReduce</module>
     <module>StreamFilterMapReduce</module>
     <module>ArraysAndStreamsExample</module>
+    <module>ArraysAndStreams2</module>
   </modules>
 
   <name>StreamPractice</name>
