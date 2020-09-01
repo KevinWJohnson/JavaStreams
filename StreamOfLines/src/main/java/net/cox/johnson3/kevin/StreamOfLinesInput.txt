@@ -1,0 +1,10 @@
+Introduction to Programming Using Java is a free introductory computer programming
+textbook that uses Java as the language of instruction. It is suitable for use in an introductory
+programming course and for people who are trying to learn programming on their own. There
+are no prerequisites beyond a general familiarity with the ideas of computers and programs.
+There is more than enough material for a full year of college-level programming. Chapters 1
+through 7 can be used as a textbook in a one-semester college-level course or in a year-long
+high school course. The remaining chapters can be covered in a second course.
+The Eighth Edition of the book uses Java 8, with brief coverage of features that were added
+to the language in Java 9 and later. JavaFX is used for GUI programming. All sample programs
+and exercise solutions have been compiled with Java 11 and with Java 14, as well as with Java 8.
